@@ -1,7 +1,7 @@
 {
-  "name": "js-games-01",
+  "name": "live-dev-server-with-hot-reloading",
   "version": "1.0.0",
-  "description": "",
+  "description": "Minimal live dev server with hot reloading",
   "main": "index.html",
   "scripts": {
     "dev": "npx nodemon ./dev-server.js --ext js,html,css,md"
@@ -9,7 +9,7 @@
   "author": "xx745",
   "license": "MIT",
   "repository": {
-    "url": "https://github.com/xx745/js-games-01"
+    "url": "https://github.com/xx745/live-dev-server-with-hot-reloading"
   },
   "devDependencies": {
     "nodemon": "^2.0.22",
